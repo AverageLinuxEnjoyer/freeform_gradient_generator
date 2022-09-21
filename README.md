@@ -8,7 +8,7 @@ To build the project, just do:
 ```shell
 mkdir build
 cd build
-cmake <path_to_CMakeLists.txt>
+cmake <path_to_cloned_repo>
 cmake --build .
 ./src/imgui-sfml-example # or .\src\Debug\imgui-sfml-example.exe if you're on Windows
 ```
